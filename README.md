@@ -69,7 +69,7 @@
 
 <br/>
 
-![Snake animation](https://github.com/rvdang256/rvdang256/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/rvdang256/rvdang256/output/github-contribution-grid-snake-dark.svg)
 
 
 <br/>
