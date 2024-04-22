@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ryan+Dang!;" />
 </h1>
 
-<h3 align="center">A passionate software developer who loves playing Soccer</h3>
+<h3 align="center">A passionate software developer who loves playing soccer</h3>
 
 <br/>
 
@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **minting NFTS based on audio files**
  
- 🌱 I’m currently learning **Solidity, PHP, AWS**
+ 🌱 I’m currently learning **Solidity, Rust, AWS**
 
-💬 Ask me about **Machine Learning, React, Firebase... or anything about Soccer**
+💬 Ask me about **Machine Learning, React, Firebase... or anything about soccer**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
